@@ -2,7 +2,7 @@
 
 ![Pasta med miso](.pics/pasta_med_miso.jpg)
 
-*huvudrätt, pasta, enkelt, vegetarisk*
+*huvudrätt, pasta, enkelt, vegetaris, italienk*
 
 **4 portioner**
 

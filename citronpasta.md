@@ -2,13 +2,14 @@
 
 ![Citronpasta](.pics/citron_pasta.jpg)
 
-*huvudrätt, pasta, enkelt, vegetaris, italian*
+*huvudrätt, pasta, enkelt, vegetarik, italien*
 
 **4 portioner**
 
 ---
 
 ## Ingredienser
+
 
 - **25 g** smör
 - **1** riven vitlöksklyfta
@@ -23,6 +24,8 @@
 ---
 
 ## Instruktion
+
+
 1. Bryn smöret i en stekpanna. Tillsätt vitlöken och fräs någon minut.
 2. Häll ner grädden, citronskal och -juice och låt koka upp.
 3. Smaka av med salt.
